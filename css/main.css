@@ -1,3 +1,11 @@
+/* This is a css comment */
+
 html {
-  background-color: limegreen;
+  background-color: #ebd1fb;
+  /* Black: #000000
+    White: #ffffff
+    Red: #ff0000
+    Blue: #0000ff
+    */
+color: #7935a4;
 }
