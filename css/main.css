@@ -9,3 +9,23 @@ html {
     */
 color: #7935a4;
 }
+h1 {
+  color: #4a0f6c;
+  font-weight: normal;
+  font-size: 5rem;
+  line-height: 1.5;
+  text-shadow: 2px -5px 10px #b67cd8;
+  font-family: 'Lobster', cursive;
+  /* text-shadow:
+  horizontal offset
+  vertical offset
+  blur radius/size
+  colour
+  */
+}
+p{
+  font-style: italic; /* italic, normal */
+  text-decoration: underline; /*underline, none, line-through */
+  text-align: center; /* left, center, right, justify */
+  font-family: arial, sans-serif;
+}
